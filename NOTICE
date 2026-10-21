@@ -1,0 +1,15 @@
+Montage by Timur Lazarev
+Copyright (c) 2026 Timur Lazarev
+
+This repository is a modified version of OpenMontage
+(https://github.com/calesthio/OpenMontage), snapshot of commit
+cd9f3c1f03368be87b140af494914b8ee4e3c7a4, licensed under the
+GNU Affero General Public License v3.0 (see LICENSE).
+
+Modifications by Timur Lazarev, October 2026:
+- added montage_by_timur/fonts (Inter typeface, SIL Open Font License 1.1);
+- replaced README.md (original moved to docs/OPENMONTAGE_README.md);
+- added this NOTICE.
+
+The original copyright notices of OpenMontage and its contributors
+are retained in the source files and in LICENSE.
